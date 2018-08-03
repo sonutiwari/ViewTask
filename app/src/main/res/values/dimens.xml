@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="app_bar_bottom_margin">60dp</dimen>
+    <dimen name="dot_image_width_height">24dp</dimen>
+    <dimen name="top_margin_card">100dp</dimen>
+    <dimen name="bottom_margin_card">-80dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="button_margin">5dp</dimen>
+    <dimen name="dimen_when_weight_specified">0dp</dimen>
+
+
+    <!--Margins-->
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
+    <dimen name="width_of_dots">140dp</dimen>
+    <dimen name="tab_indicator">0dp</dimen>
+    <dimen name="size_dot">20dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+</resources>
